@@ -23,6 +23,8 @@
 </template>
 
 <script>
+// Comments
+
 import ToDoList from './components/ToDoList.vue'
 import NewItem from './components/NewItem.vue'
 import axios from 'axios'
