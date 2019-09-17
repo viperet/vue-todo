@@ -1,5 +1,5 @@
 <template>
-<!-- comment 1 -->
+<!-- comment 2 -->
 	<div class="container">
         	<div class="row justify-content-center">
             	<div v-if="loaded" class="col-4">
